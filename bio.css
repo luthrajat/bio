@@ -1,0 +1,15 @@
+h1 {
+	margin: 50px;
+	background-color: black;
+	color: #ffffff;
+	text-align: center;
+}
+
+img {
+	display: block;
+}
+
+li {
+	text-align: right;
+	color: blue;
+}
